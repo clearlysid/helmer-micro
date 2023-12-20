@@ -6,7 +6,7 @@ mod cropper;
 mod editor;
 mod tray;
 
-use scap::Recorder;
+// use scap::Recorder;
 use std::sync::Arc;
 use tauri::{GlobalShortcutManager, Manager};
 use tauri_plugin_autostart::MacosLauncher;
